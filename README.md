@@ -3,7 +3,6 @@
 - I am Aza
 - 👯 I’m looking to collaborate on interesting projects
 - 🤔 I’m looking for help with improving my SQL and Python skills 
-- 📫 How to reach me: azabesaeva@yandex.ru
 - ⚡ Fun fact: Now I am a business assistant
 
 I am passionate about data analysis and constantly developing my skills in this field. Over the past few years, I have gained practical experience by participating in various projects that required data analysis
